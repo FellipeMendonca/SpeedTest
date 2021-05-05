@@ -1,0 +1,5 @@
+pandas
+threaded
+speedtest-cli
+workalendar
+pylint
